@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Aaron Chen
-A creative software engineer, Always thinking about how to use IT solve real world issues
+A creative software engineer, Always thinking about how to use IT to solve real-world issues
 
-🔭 I’m currently working on a Android project
+🔭 I’m currently working on an Android project
 
 🌱 I’m currently learning React Native
 
-⚡ Fun fact:I know how to play violin🎻, So I write an App. It is for me read music note while I am playing([Simple music note reader](https://github.com/AaronCChen2233/--Portfolio--simple_music_notes_reader))
+⚡ Fun fact:I know how to play violin🎻, So I write an App. It is for me to read music note while I am playing([Simple music note reader](https://github.com/AaronCChen2233/--Portfolio--simple_music_notes_reader))
 
 How to reach me:aaronchen2233@gmail.com
 
