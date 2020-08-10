@@ -5,7 +5,7 @@ A creative software engineer, Always thinking about how to use IT solve real wor
 
 🌱 I’m currently learning React Native
 
-⚡ Fun fact:I know how to play violin🎻, So I write a App. It is for me read music note while I am playing([Simple music note reader](https://github.com/AaronCChen2233/--Portfolio--simple_music_notes_reader))
+⚡ Fun fact:I know how to play violin🎻, So I write an App. It is for me read music note while I am playing([Simple music note reader](https://github.com/AaronCChen2233/--Portfolio--simple_music_notes_reader))
 
 How to reach me:aaronchen2233@gmail.com
 
