@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Aaron Chen
 A creative software engineer, Always thinking about how to use IT to solve real-world issues
 
-🔭 I’m currently working on an Android project
+🔭 I’m currently looking for a job
 
 🌱 I’m currently learning React Native
 
